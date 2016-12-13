@@ -1,0 +1,4 @@
+Answer is Option c
+
+Parent's method2()
+Parent's method1()
